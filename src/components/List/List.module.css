@@ -1,0 +1,14 @@
+.block {
+	display: flex;
+	justify-content: space-between;
+	/* width: 500px; */
+	margin: 30px;
+	border: 1px solid black;
+	padding: 40px;
+}
+.title {
+	font-size: 2rem;
+}
+.date {
+	font-size: 2rem;
+}
